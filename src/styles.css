@@ -1,7 +1,7 @@
 @import './app/vendor/semantic.min.css';
 
-.container {
-
+body {
+  margin: auto 0;
 }
 
 
